@@ -10,16 +10,19 @@ and key engagement patterns between active and inactive members.
 
 🎯 Objective
 
-Understand customer churn behavior and identify high-risk customer segments 
-Analyze exit rates based on Age, Gender, and Geography
-Examine the impact of Credit Score, Balance, and Product usage on churn
-Compare active vs inactive members to understand engagement patterns
+• Understand customer churn behavior and identify high-risk customer segments 
+
+• Analyze exit rates based on Age, Gender, and Geography
+
+• Examine the impact of Credit Score, Balance, and Product usage on churn
+
+• Compare active vs inactive members to understand engagement patterns
 
 🛠️ Tools & Technologies
 
-MS SQL Server
+• MS SQL Server
 
-SSMS (SQL Server Management Studio)
+• SSMS (SQL Server Management Studio)
 
 📊 Dataset
 
@@ -76,19 +79,19 @@ Q16. What is the number of active and exited customers in each geography?
 
 💡 Key Insights
 
-There are 10,000 total customers, of which 5,151 are active (51.5%) and 2,037 have exited (20.4%).
+• There are 10,000 total customers, of which 5,151 are active (51.5%) and 2,037 have exited (20.4%).
 
-France has the highest number of customers using credit cards (3,543), followed by Germany (1,791) and Spain (1,721).
+• France has the highest number of customers using credit cards (3,543), followed by Germany (1,791) and Spain (1,721).
 
-The highest exit rate is among customers aged 35–45 (34.51%), followed by the 45–55 age group (34.46%).
+• The highest exit rate is among customers aged 35–45 (34.51%), followed by the 45–55 age group (34.46%).
 
-The highest credit card usage is among customers aged 35–45 (2,812), followed by the 25–35 age group (2,296).
+• The highest credit card usage is among customers aged 35–45 (2,812), followed by the 25–35 age group (2,296).
 
-Only 326 customers are using more than two products across the bank's services.
+• Only 326 customers are using more than two products across the bank's services.
 
-The exit rate is higher among female customers (55.92%) than male customers (44.08%).
+• The exit rate is higher among female customers (55.92%) than male customers (44.08%).
 
-Exited customers stayed with the bank for an average of 4.9 years before churning.
+• Exited customers stayed with the bank for an average of 4.9 years before churning.
 
 ✅ Conclusion
 
