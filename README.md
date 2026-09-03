@@ -21,8 +21,8 @@ MS SQL Server
 
 SSMS (SQL Server Management Studio)
 
-
 📊 Dataset
+
 Table Name: Bank_Churn
 
 CustomerId, 
