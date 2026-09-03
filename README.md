@@ -1,4 +1,5 @@
 Bank Customer Churn Analysis (SQL Project)
+
 📌 Overview
 
 Analyzed a banking dataset of 10,000 customers using MS SQL Server to identify key factors driving customer churn. 
