@@ -9,12 +9,14 @@ Delivered actionable insights to support customer retention strategies, includin
 and key engagement patterns between active and inactive members.
 
 🎯 Objective
+
 Understand customer churn behavior and identify high-risk customer segments 
 Analyze exit rates based on Age, Gender, and Geography
 Examine the impact of Credit Score, Balance, and Product usage on churn
 Compare active vs inactive members to understand engagement patterns
 
 🛠️ Tools & Technologies
+
 MS SQL Server
 SSMS (SQL Server Management Studio)
 
@@ -37,6 +39,7 @@ Exited,
 Age_Group
 
 ❓ Business Problems Solved
+
 What is the total number of customers?
 What is the average credit score of customers?
 What is the total number of active members?
@@ -55,6 +58,7 @@ Which gender has a higher exit rate?
 What is the number of active and exited customers in each geography?
 
 💡 Key Insights
+
 There are 10,000 total customers, of which 5,151 are active (51.5%) and 2,037 have exited (20.4%)
 France has the highest number of customers using credit cards (3,543), followed by Germany (1,791) and Spain (1,721)
 The highest exit rate is among customers aged 35–45 (34.51%), followed by the 45–55 age group (34.46%)
@@ -64,6 +68,7 @@ The exit rate is higher among female customers (55.92%) than male customers (44.
 Exited customers stayed with the bank for an average of 4.9 years before churning
 
 ✅ Conclusion
+
 The analysis reveals that customer churn is influenced by a combination of age, geography, gender, and account activity rather than a single factor. 
 Customers aged 35–45, female customers, and inactive members show a higher tendency to churn. These insights can help the bank design targeted retention 
 strategies, such as personalized engagement programs and focused outreach for high-risk segments, to reduce overall churn rate.
